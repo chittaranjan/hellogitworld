@@ -1,3 +1,5 @@
+Process to submit changes into upstream
+
 git remote add upstream https://github.com/lifelongstudent/hellogitworld.git
 git fetch upstream
 
